@@ -1,3 +1,4 @@
+```
 # 1.Talabni aniqlashning birinchi bosqichi nima?
 +manfaatdor tomonlarni aniqlash
 -Talablarni ro'yxatga olish
@@ -968,13 +969,13 @@ _aytib o'tilganlarning hech biri
 +Strukturaviy model
 
 157. Quyidagilardan qaysi biri mos keladi?
-Mahsulotga qo'yiladigan talablar -> Ishlash talablari
++Mahsulotga qo'yiladigan talablar -> Ishlash talablari
 Tashqi talablar -> Standartlarga qo'yiladigan talablar
 Tashkiliy talablar -> Qonuniy talablar
 Mahsulotga qo'yiladigan talablar -> Axloqiy talablar
  
 158. Quyidagilardan qaysi biri mos keladi?
-Tashqi talablar -> Qonuniy talablar
++Tashqi talablar -> Qonuniy talablar
 Tashkiliy talablar -> Xavfsizlik talablari
 Mahsulotga qo'yiladigan talablar -> Operatsion talablar 
 Tashqi talablar -> Foydalanish uchun talablar
@@ -982,23 +983,23 @@ Tashqi talablar -> Foydalanish uchun talablar
 159. Quyidagilardan qaysi biri mos keladi?
 Mahsulotga qo'yiladigan talablar -> Ishlab chiqish talablari
 Tashqi talablar -> Ekologik talablar
-Tashkiliy talablar -> Standartlarga qo'yiladigan talablar
++Tashkiliy talablar -> Standartlarga qo'yiladigan talablar
 Tashkiliy talablar -> Bo'sh joy talablari
  
 160. Talablarni ishlab chiqish quyidagi asosiy bo'limlarni o'z ichiga oladi
 talablar to'plami
-talablarni boshqarish
++talablarni boshqarish
 talablarni tizimlashtirish
 hujjatlashtirish talablari
  
 161. Talablarni ishlab chiqish quyidagi asosiy bo'limlarni o'z ichiga oladi
-talablarni tahlil qilish
++talablarni tahlil qilish
 talablar to'plami
 talablarni tizimlashtirish
 hujjatlashtirish talablari
  
 162. Qanday talablar funktsional emas?
-Resursning mavjudligi yiliga 365 kun
++Resursning mavjudligi yiliga 365 kun
 Ish haqi to'g'risidagi hisobotni shakllantirish
 Elektron katalogga yangi maqolalar qo'shish
 UTF-8 kodlashdan foydalanish
@@ -1006,32 +1007,32 @@ UTF-8 kodlashdan foydalanish
  
 163. Qanday talablar funktsional emas?
  
-Dasturiy ta'minot mahsulotidan foydalanish qulayligi
++Dasturiy ta'minot mahsulotidan foydalanish qulayligi
 Ish haqi to'g'risidagi hisobotni shakllantirish
 Elektron katalogga yangi maqolalar qo'shish
 UTF-8 kodlashdan foydalanish
  
 164. Qanday talablar funktsional emas?
-Bir soniyada 1000 ta tranzaksiyani qayta ishlash
++Bir soniyada 1000 ta tranzaksiyani qayta ishlash
 Ish haqi to'g'risidagi hisobotni shakllantirish
 Elektron katalogga yangi maqolalar qo'shish
 UTF-8 kodlashdan foydalanish
  
 165. Tizim tomonidan bajariladigan funksiyalarning tabiiy tildagi tavsifi (plyus tushuntirish sxemalari) va unga qo‘yilgan cheklovlar qanday talablar bilan belgilanadi.
-A Foydalanuvchi talablari
++A Foydalanuvchi talablari
 B Tizim talablari
 C Dizayn tizimining spetsifikatsiyasi
 D Interfeys spetsifikatsiyasi
  
 166. Dasturiy ta'minot sifatiga qo'yiladigan talablar ... ga muvofiq belgilanadi.
-maxsus qo'llash sohasi
++maxsus qo'llash sohasi
 dasturchilarning professionalligi
 hal qilinayotgan vazifalarning murakkabligi
 sinov narxi
  
  
 167. Dasturiy ta'minot sifatiga qo'yiladigan talablar ... ga muvofiq belgilanadi.
-foydalanish shartlari
++foydalanish shartlari
 dasturchilarning professionalligi
 hal qilinayotgan vazifalarning murakkabligi
 sinov narxi
@@ -1040,19 +1041,19 @@ sinov narxi
 168 Qanday talablar quyida tavsiflanadi:
 "Tizim funktsiyalari va cheklovlarning batafsil tavsifi, ba'zan funktsional spetsifikatsiya deb ataladi. Bu tizimni sotib oluvchi va dasturiy ta'minot ishlab chiqaruvchilari o'rtasida shartnoma tuzish uchun asos bo'lib xizmat qiladi."
 A Foydalanuvchi talablari
-B Tizim talablari
++B Tizim talablari
 C Dizayn tizimining spetsifikatsiyasi
 D Tizimdan tashqari talablar
  
 169. Qanday talablar quyida tavsiflanadi:
 tizim tomonidan bajariladigan funktsiyalar va unga qo'yilgan cheklovlarning tabiiy tilda tavsifi (plyus tushuntirish sxemalari).
-Maxsus talablar
++Maxsus talablar
 Tizim talablari
 Dizayn tizimining spetsifikatsiyasi
 Tizimdan tashqari talablar
  
 170. Talablarni shakllantirish va tahlil qilish jarayonining murakkabligining sabablari nimada?
-           Talablarni shakllantirish bilan shug'ullanadiganlar ko'pincha kompyuter tizimidan nimani xohlashlarini aniq bilishmaydi, eng umumiy qoidalar bundan mustasno; ular tizimdan nimani kutayotganlarini ifodalashda qiynaladilar; ular haqiqatga to'g'ri kelmaydigan talablar qo'yishlari mumkin, chunki ularni amalga oshirish xarajatlari haqida hech qanday tasavvurga ega emaslar.
+           +Talablarni shakllantirish bilan shug'ullanadiganlar ko'pincha kompyuter tizimidan nimani xohlashlarini aniq bilishmaydi, eng umumiy qoidalar bundan mustasno; ular tizimdan nimani kutayotganlarini ifodalashda qiynaladilar; ular haqiqatga to'g'ri kelmaydigan talablar qo'yishlari mumkin, chunki ularni amalga oshirish xarajatlari haqida hech qanday tasavvurga ega emaslar.
            Talablarni shakllantirish bilan shug'ullanuvchilar kompyuter tizimidan nimani xohlashlarini juda yaxshi bilishadi; 
            Talablarni shakllantirish bilan shug'ullanadiganlar, ular tizimdan nimani kutayotganlarini osongina ifodalaydilar; 
            Talablarni shakllantirishda ishtirok etuvchi shaxslar har doim faqat haqiqiy talablarni taqdim etadilar, chunki ular ularni amalga oshirish narxini aniq bilishadi.
@@ -1062,37 +1063,37 @@ Tizimdan tashqari talablar
  
  
 171 Talablarni shakllantirish va tahlil qilish jarayonining murakkabligining sabablari nimada?
-A Talablarni shakllantirishda ishtirok etuvchi shaxslar shaxsiy ish tajribasiga asoslanib, ushbu talablarga o'z nuqtai nazarini bildiradilar.
++A Talablarni shakllantirishda ishtirok etuvchi shaxslar shaxsiy ish tajribasiga asoslanib, ushbu talablarga o'z nuqtai nazarini bildiradilar.
 B Talablarni shakllantirish bilan shug'ullanuvchilar kompyuter tizimidan nimani xohlashlarini yaxshi bilishadi;
 C Talablarni shakllantirish bilan shug'ullanadiganlar, ular tizimdan nimani kutayotganlarini osongina ifodalaydilar; 
 D Talablarni shakllantirishda ishtirok etuvchi shaxslar, ular har doim faqat real talablarni taqdim etadilar, chunki ular ularni amalga oshirish narxini aniq bilishadi.
  
 172. Talablarni shakllantirish va tahlil qilish jarayonining murakkabligining sabablari nimada?
-A Talablar ishtirokchilari turli xil imtiyozlarga ega va ularni turli yo'llar bilan ifodalashlari mumkin. Ishlab chiquvchilar barcha mumkin bo'lgan talab manbalarini aniqlashlari va umumiy va qarama-qarshi talablarni ta'kidlashlari kerak.
++A Talablar ishtirokchilari turli xil imtiyozlarga ega va ularni turli yo'llar bilan ifodalashlari mumkin. Ishlab chiquvchilar barcha mumkin bo'lgan talab manbalarini aniqlashlari va umumiy va qarama-qarshi talablarni ta'kidlashlari kerak.
 B Talablarni shakllantirish bilan shug'ullanuvchilar kompyuter tizimidan nimani xohlashlarini yaxshi bilishadi;
 C Talablarni shakllantirish bilan shug'ullanadiganlar, ular tizimdan nimani kutayotganlarini osongina ifodalaydilar;
 D Talablarni shakllantirishda ishtirok etuvchi shaxslar, ular har doim faqat real talablarni taqdim etadilar, chunki ular ularni amalga oshirish narxini aniq bilishadi.
  
 173. Talablarni shakllantirish va tahlil qilish jarayonining murakkabligining sabablari nimada?
-A System talablar siyosiy omillar ham ta'sir ko'rsatishi mumkin. Ular faqat tashkilotdagi ta'sirini oshirish uchun talablar qo'yadigan rahbarlardan chiqishi mumkin.
++A System talablar siyosiy omillar ham ta'sir ko'rsatishi mumkin. Ular faqat tashkilotdagi ta'sirini oshirish uchun talablar qo'yadigan rahbarlardan chiqishi mumkin.
 B Talablarni shakllantirish bilan shug'ullanuvchilar kompyuter tizimidan nimani xohlashlarini yaxshi bilishadi;
 C Talablarni shakllantirish bilan shug'ullanadiganlar, ular tizimdan nimani kutayotganlarini osongina ifodalaydilar;
 D Talablarni shakllantirishda ishtirok etuvchi shaxslar, ular har doim faqat real talablarni taqdim etadilar, chunki ular ularni amalga oshirish narxini aniq bilishadi.
  
 174. Agar dasturiy ta'minotni ishlab chiqishni ichki va tashqi ko'rib chiqsak, sanab o'tilgan talablarning qaysi biri ichki va tashqi o'ziga xosliklarga mos keladi? 
-A Funktsional talablar
++A Funktsional talablar
 B Tizim talablari
 C Maxsus talablar
 D Dizayn tizimining spetsifikatsiyasi
  
 175. Agar dasturiy ta'minotni ishlab chiqishni ichki va tashqi ko'rib chiqsak, sanab o'tilgan talablarning qaysi biri ichki va tashqi o'ziga xos xususiyatlarga mos keladi?
-A Funktsional bo'lmagan talablar
++A Funktsional bo'lmagan talablar
 B Tizim talablari
 C Maxsus talablar
 D Dizayn tizimining spetsifikatsiyasi
  
 176 Dasturiy ta'minotga qanday funktsional talablar qo'yiladi?
-A Bu tizim bajarishi kerak bo'lgan xizmatlar ro'yxati bo'lib, unda tizim ma'lum kirish ma'lumotlariga qanday munosabatda bo'lishi ko'rsatilishi kerak.
++A Bu tizim bajarishi kerak bo'lgan xizmatlar ro'yxati bo'lib, unda tizim ma'lum kirish ma'lumotlariga qanday munosabatda bo'lishi ko'rsatilishi kerak.
 B Tizimning xatti-harakatlarini emas, balki tizimning xususiyatlarini va uning muhitini tavsiflang
 C Tizim ishlaydigan mavzu sohasini tavsiflang
 D SXEMANING strukturaviy elementlarini yaratish uchun foydalanuvchi talabi
@@ -1100,47 +1101,47 @@ D SXEMANING strukturaviy elementlarini yaratish uchun foydalanuvchi talabi
 177. Tizim talablari quyidagilarni belgilaydi:
 A funktsiyalari yoki xizmatlar ro'yxati tizimi tomonidan amalga oshirilishi uchun
 B ma'lumotlar va tizim xatti-harakatlariga cheklovlar ro'yxati
-C yilda kichik tizimlar ta'rifi uchun tashqi yaratilgan mahsulot haqida tizimi funktsiyalari va cheklovlar joriy etish uchun sharoitlar, shuningdek, talablari
++C yilda kichik tizimlar ta'rifi uchun tashqi yaratilgan mahsulot haqida tizimi funktsiyalari va cheklovlar joriy etish uchun sharoitlar, shuningdek, talablari
 D kelajakdagi tizim foydalanuvchilarga hal qilishga imkon beradigan maqsad va vazifalar
  
 178. Xizmatga yaroqlilik, ishonchlilik va samaradorlik muhim atributlardir ...
-A sifat
++A sifat
 B funksionalligi
 C cheklovlari
 D foydalanish imkoniyati
  
 179. Murakkab ob'ektlarni modellashtirishda qanday tamoyillar qo'llaniladi?
 A tarkibi
-B abstraktsiya
++B abstraktsiya
 C meros
 D inkapsulyatsiya
  
 180. Texnik-iqtisodiy asoslash qanday savollarga javob berishi kerak?
-A Tizim pudratchi tashkilot va ishlab chiquvchi tashkilotning umumiy va biznes maqsadlariga javob beradimi?
++A Tizim pudratchi tashkilot va ishlab chiquvchi tashkilotning umumiy va biznes maqsadlariga javob beradimi?
 Q tizimi tezkor emas, agar nima tashkilotga bo'ladi?
 C Tashkilotdagi hozirgi muammolar qanday va ularni hal qilishda yangi tizim qanday yordam beradi?
 D Texnik vositalar majmuasini yangilash kerakmi
 181. Texnik-iqtisodiy asoslash qanday savollarga javob berishi kerak?
-A Tizimni mavjud texnologiyalardan foydalangan holda va belgilangan xarajatlardan tashqariga chiqmasdan amalga oshirish mumkinmi?
++A Tizimni mavjud texnologiyalardan foydalangan holda va belgilangan xarajatlardan tashqariga chiqmasdan amalga oshirish mumkinmi?
 Q tizimi tezkor emas, agar nima tashkilotga bo'ladi?
 C Tashkilotdagi hozirgi muammolar qanday va ularni hal qilishda yangi tizim qanday yordam beradi?
 D Texnik vositalar majmuasini yangilash kerakmi
  
 182. Texnik-iqtisodiy asoslash qanday savollarga javob berishi kerak?
-A Tizimni allaqachon ishlatilayotgan boshqa tizimlar bilan birlashtirish mumkinmi?
++A Tizimni allaqachon ishlatilayotgan boshqa tizimlar bilan birlashtirish mumkinmi?
 Q tizimi tezkor emas, agar nima tashkilotga bo'ladi?
 C Tashkilotdagi hozirgi muammolar qanday va ularni hal qilishda yangi tizim qanday yordam beradi?
 D Texnik vositalar majmuasini yangilash kerakmi
  
  
 183. Funktsional bo'lmagan talablarning asosiy muammosi nima
- A non-funktsional talablar bajarish tekshirish uchun qiyin
+ +A non-funktsional talablar bajarish tekshirish uchun qiyin
  B funktsional bo'lmagan talablarni yozish qiyin
 C funktsional bo'lmagan talablarni tushuntirish qiyin
 D funktsional bo'lmagan talablarni ifodalash qiyin
  
 184. SRS (Tizim talablari spetsifikatsiyasi) yozuvning qanday turi UML Use Case hisoblanadi?
-Grafik yozuv
++Grafik yozuv
 B Tabiiy tildagi gaplar
 C Matematik tavsif
 D Interfeys tavsif tili
@@ -1149,13 +1150,13 @@ D Interfeys tavsif tili
  
  
 185. Tizim talablarini boshqarish - bu:
-A dasturiy mahsulot xususiyatlarini aks talablariga o'zgarishlar boshqarish o'z ichiga oladi hayot tsikli, barcha bosqichlarida talablariga shakllantirish jarayonlarini boshqarish, shuningdek talablari manbai tiklash
++A dasturiy mahsulot xususiyatlarini aks talablariga o'zgarishlar boshqarish o'z ichiga oladi hayot tsikli, barcha bosqichlarida talablariga shakllantirish jarayonlarini boshqarish, shuningdek talablari manbai tiklash
 B dasturiy mahsulotning xususiyatlarini aks ettiruvchi talablar uchun o'zgarishlarni boshqarish jarayonlarini boshqarish
 C hayot tsiklining barcha bosqichlarida talablarni shakllantirish jarayonlarini boshqarish, bu dasturiy mahsulotning xususiyatlarini aks ettiruvchi talablarning o'zgarishini boshqarishni, shuningdek talablar manbasini tiklashni o'z ichiga olmaydi.
 D dasturiy mahsulotning xususiyatlarini aks ettiruvchi talablarning o'zgarishini boshqarishni o'z ichiga olgan hayot tsiklining barcha bosqichlarida talablarni shakllantirish jarayonlarini boshqarish.  
  
 186. Foydalanuvchi talablari qaysi tilda yozilishi kerak?
-A jadvallar va tushunish oson diagramma yordamida tabiiy til
++A jadvallar va tushunish oson diagramma yordamida tabiiy til
 B tuzilgan tillar
 C tuzilgan tabiiy til shakli
 Yuqori darajadagi dasturlash tilining ustiga qurilgan D tili
@@ -1164,29 +1165,29 @@ Yuqori darajadagi dasturlash tilining ustiga qurilgan D tili
 A universal etnografik usuli hisoblanadi
 Strukturaviy tahlilning B usullari universal hisoblanadi.
 C universal ko'rib chiqilgan prototiplash usullari
-D talablarni shakllantirish va tahlil qilishda universal yondashuv mavjud emas
++D talablarni shakllantirish va tahlil qilishda universal yondashuv mavjud emas
  
 188. Talablarni shakllantirishga universal yondashuvga oid to‘g‘ri gaplarni tanlang:
 BIR nechta asosiy nuqtai nazarga asoslangan usul
 B skript usuli universal deb hisoblanadi.
 C universal ko'rib chiqilgan prototiplash usullari
-D odatda bir vaqtning o'zida talablarni ishlab chiqish uchun bir nechta yondashuvlardan foydalaniladi
++D odatda bir vaqtning o'zida talablarni ishlab chiqish uchun bir nechta yondashuvlardan foydalaniladi
  
 189. Talablarning ta’rifi:
 A rivojlantirish zarurligini tushuntirish bilan bog'liq mijozning harakatlari
 B ishlab chiqilgan dasturni qo'llash bo'yicha cheklovlar tavsifi
 Loyiha menejerining C harakatlari foydalanuvchiga qanday rivojlanish kerakligini aniqlash bilan bog'liq
-D vazifaning umumiy konteksti, tizimning kutilayotgan funktsiyalari va uning cheklovlari tavsifi
++D vazifaning umumiy konteksti, tizimning kutilayotgan funktsiyalari va uning cheklovlari tavsifi
  
  
 190. Funktsional bo'lmagan talablar to'g'risidagi haqiqiy bayonotlar ro'yxatidan tanlang:
-A non-funktsional talablar ko'pincha qo'shimcha tizimi talablariga alohida ro'yxatda keltirilgan.
++A non-funktsional talablar ko'pincha qo'shimcha tizimi talablariga alohida ro'yxatda keltirilgan.
 B funktsional bo'lmagan talablar mavjud tizimning funktsional xatti-harakatlarini aniqlash uchun ishlatiladi.
 C funktsional bo'lmagan talablar mavjud tizimning funktsional bo'lmagan xatti-harakatlarini aniqlash uchun ishlatiladi.
 D funktsional bo'lmagan talablar - bu foydalanuvchiga qandaydir mazmunli, aniq va o'lchanadigan natijalarni olish imkonini beradigan tizimning funksionalligi, funktsional bo'lmagan talablar ko'pincha muayyan foydalanish holatiga bog'liq emas.
  
 191. Funktsional bo'lmagan talablar to'g'risidagi haqiqiy bayonotlar ro'yxatidan tanlang:
-A non-funktsional talablar atrof-muhit va amalga oshirish, bajarish, plaginlari tashkil topgan, va hokazo xususiyatlari sifatida tizimi kabi xususiyatlari ta'rifi bor
++A non-funktsional talablar atrof-muhit va amalga oshirish, bajarish, plaginlari tashkil topgan, va hokazo xususiyatlari sifatida tizimi kabi xususiyatlari ta'rifi bor
 B funktsional bo'lmagan talablar mavjud tizimning funktsional xatti-harakatlarini aniqlash uchun ishlatiladi.
 C funktsional bo'lmagan talablar - bu foydalanuvchiga qandaydir mazmunli, aniq va o'lchanadigan natijalarni olish imkonini beradigan tizimning funksionalligi, funktsional bo'lmagan talablar ko'pincha muayyan foydalanish holatiga bog'liq emas.
 D funktsional bo'lmagan talablar mavjud bo'lmagan tizimning funktsional xatti-harakatlarini aniqlash uchun ishlatiladi.
@@ -1195,42 +1196,42 @@ D funktsional bo'lmagan talablar mavjud bo'lmagan tizimning funktsional xatti-h
 192. Loyiha menejerining asosiy malakasi nimadan iborat
 A mijoz tinchlaning
 B Jamoani rag'batlantirish
-C Mijoz tilini mutaxassislarga tarjima qiling
++C Mijoz tilini mutaxassislarga tarjima qiling
 D Loyiha hujjatlarini tayyorlang
  
 193. Belgilangan byudjetsiz uzoq muddatli loyiha uchun qaysi rivojlantirish metodologiyasi eng yaxshisidir?
 A sharshara
 B gibrid
-C Scrum
++C Scrum
 D shakli
  
  
 194. Mijoz “dastlab biz buni muhokama qildik” argumenti bilan qo‘shimcha funksiyalarni bepul bajarishni so‘rasa, loyiha menejerining qaysi javobi eng to‘g‘ri bo‘ladi.
 A Men buni eslay olmayman
 B Nimani isbotlaysiz
-C Keling, bu loyiha hujjatlarida yoki yo'qligini ko'rib chiqaylik
++C Keling, bu loyiha hujjatlarida yoki yo'qligini ko'rib chiqaylik
 D siz noto'g'risiz
  
 195. Ta'rif berilgan atamani tanlang: "loyiha egasi va uning natijalarining kelajakdagi iste'molchisi"
 A Project menejeri
 B Loyiha boshqaruvi jamoasi
 C Loyiha tashabbuskori
-D loyihasi mijozi
++D loyihasi mijozi
  
 196. Loyihaning tarmoq jadvali uchun mo'ljallangan
-A loyiha ishlari majmuasi amalga oshirish uchun vaqt xarajatlarining boshqarish
++A loyiha ishlari majmuasi amalga oshirish uchun vaqt xarajatlarining boshqarish
 B moddiy xarajatlarni boshqarish
 C loyiha jamoasi mojarolarni boshqarish
 D risklarni boshqarish
  
 197. Ta'rif berilgan atamani tanlang: "loyihani o'z yoki qarz mablag'lari hisobidan moliyalashtiradi"
-A Project investor
++A Project investor
 B Muvofiqlashtiruvchi kengash
 C Loyiha kuratori
 D Loyiha menejeri
  
 198. Dasturiy ta'minotdan foydalanish qulayligi quyidagilardan iborat:
-A dasturiy ta'minot xususiyatlari, boshlang'ich ma'lumotlarni tayyorlash dasturini ishlatish uchun foydalanuvchi harakatlarini kamaytirish imkonini beradigan;
++A dasturiy ta'minot xususiyatlari, boshlang'ich ma'lumotlarni tayyorlash dasturini ishlatish uchun foydalanuvchi harakatlarini kamaytirish imkonini beradigan;
 B - berilgan sharoitlarda foydalanuvchiga dasturiy ta'minot tomonidan taqdim etilgan xizmatlar darajasining foydalaniladigan resurslar hajmiga nisbati
 Dasturiy ta'minotning C xususiyatlari, undagi xatolarni bartaraf etish va uni o'zgartirish uchun o'zgartirishlar kiritish harakatlarini minimallashtiradi
 D dasturiy ta'minotning foydalanuvchi ehtiyojlarini qondiradigan funktsiyalar to'plamini bajarish qobiliyati
@@ -1241,25 +1242,25 @@ D dasturiy ta'minotning foydalanuvchi ehtiyojlarini qondiradigan funktsiyalar t
 199. Dasturiy ta’minotning harakatchanligi bu:
 A foydalanuvchilarning ehtiyojlarini qondirish vazifalar to'plamini bajarish uchun dasturiy qobiliyati
 B - PS ning ma'lum vaqt davomida ma'lum shartlar ostida ma'lum funktsiyalarni bajara olish qobiliyati  
-C dasturiy ta'minotni bir muhitdan (apparat / dasturiy ta'minot) boshqasiga o'tkazish qobiliyati
++C dasturiy ta'minotni bir muhitdan (apparat / dasturiy ta'minot) boshqasiga o'tkazish qobiliyati
 D ma'lum sharoitlarda foydalanuvchiga dasturiy ta'minot tomonidan taqdim etilgan xizmatlar darajasining foydalanilgan resurslar hajmiga nisbati
  
 200. UML bu:
 A dasturlash tili C o'xshash sintaksisi rang bilan ++
-B birlashtirilgan vizual modellashtirish tili, diagramma belgilaridan foydalanadi
++B birlashtirilgan vizual modellashtirish tili, diagramma belgilaridan foydalanadi
 C dasturiy ta'minot sifati standartlari va spetsifikatsiyalari to'plami
 JAVA ga o'xshash sintaksisga ega D dasturlash tili
  
 201. Bitta murakkab vazifani bir necha oddiy kichik topshiriqlarga bo‘lish jarayoni qanday nomlanadi?
 A ajralmaslikka
-B parchalanishi
++B parchalanishi
 C reinjiniring
 D dasturlash
  
 202, foydalanuvchi interfeysi
-A kompyuter dasturi va ushbu dastur foydalanuvchi o'rtasidagi o'zaro usullari majmui
++A kompyuter dasturi va ushbu dastur foydalanuvchi o'rtasidagi o'zaro usullari majmui
 B dasturlar o'rtasidagi aloqa usullari to'plami
 C ob'ektlar orasidagi o'zaro ta'sir qilish usuli
 D dasturchilar o'rtasidagi o'zaro ta'sirlar
- 
+ ```
 
