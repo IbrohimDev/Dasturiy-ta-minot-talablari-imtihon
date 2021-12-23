@@ -1,0 +1,1 @@
+# Dasturiy-ta-minot-talablari-imtihon
